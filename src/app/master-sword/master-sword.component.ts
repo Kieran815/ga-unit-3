@@ -9,6 +9,7 @@ export class MasterSwordComponent implements OnInit {
 
   // create `proclamation` variable for View template (`component.html`)
   proclamation: string = "It's Dangerous to go Alone! Take This!";
+  
   constructor() { }
 
   ngOnInit(): void {
