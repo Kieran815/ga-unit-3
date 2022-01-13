@@ -1,0 +1,10 @@
+img {
+  width: auto;
+  height: 75vh;
+}
+
+#proclamation {  background: green;
+  color: gold;
+  text-align: center;
+  width: 100%;
+}

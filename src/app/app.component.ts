@@ -7,6 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']  // Component Style Sheet
 })
 export class AppComponent {
-  proclamation = 'It\'s Dangerous to Go Alone! Take This!!!'; // referenced on `app.component.html` on line (approx) 49
   passedFromComponentTS = "I am some meta data passed from the `export` class in `app.component.ts`. Think of me as prop values being passed down." // passed to approx line 60
 }
